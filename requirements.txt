@@ -1,0 +1,18 @@
+# VK API
+vk-api==11.9.9
+
+# Database
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Scheduling
+APScheduler==3.10.4
+
+# Utilities
+python-dateutil==2.8.2
+
+# HTTP requests (для backup)
+requests==2.31.0
