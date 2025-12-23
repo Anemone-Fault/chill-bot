@@ -1,5 +1,5 @@
 # VK API
-vk-api==11.9.9
+vk-api==11.10.0
 
 # Database
 SQLAlchemy==2.0.23
